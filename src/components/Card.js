@@ -1,7 +1,6 @@
 import nerdImage from '../assets/images/illustration.png';
 import Button from './Button';
 import { ButtonContainer, CardContainer, ContentContainer  } from './styles/Container.styles';
-import { StyledTitle } from './styles/Custom.styles';
 import { H1, Image, P, Tag} from './styles/Elements';
 import Title from "./Title";
 

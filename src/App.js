@@ -3,10 +3,6 @@ import {ThemeProvider} from "styled-components";
 import Tutorial from "./components/Tutorial";
 import GlobalStyle from "./components/styles/Global.styles";
 import {useState} from "react";
-import SunIcon from "./components/icons/SunIcon";
-import Switch from "./components/Switch";
-import MoonIcon from "./components/icons/MoonIcon";
-
 
 const darkTheme = {
     body: "#1c1c1c",
